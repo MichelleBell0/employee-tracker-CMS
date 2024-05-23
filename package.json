@@ -10,7 +10,6 @@
   "author": "Michelle Bell",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.19.2",
     "inquirer": "^8.2.4",
     "pg": "^8.11.5"
   }
